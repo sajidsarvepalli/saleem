@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  sajid:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-22T12:25:53.456690169Z"
+    description: A Helm chart for Kubernetes
+    digest: 64e65c9508ad05e0fddfc82f31c6b96b87bf854b74b36d43a445c6170fedfbec
+    name: sajid
+    type: application
+    urls:
+    - sajid-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-22T12:25:53.45702677Z"
+    description: A Helm chart for Kubernetes
+    digest: 39b8a5a74671cf1e2d7f1810e3ca536146fa1287a3595b51ba0a03ba335d3859
+    name: sajid
+    type: application
+    urls:
+    - helm/sajid-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-22T12:25:53.456254712Z"
